@@ -1,0 +1,58 @@
+.title-div {
+  background-color: navy;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.shop-title  {
+  color: chartreuse;
+}
+
+.nav-right{
+  display: flex;
+
+}
+
+.nav-right-elem {
+  color: aqua;
+  margin: 5px;
+
+}
+
+.welcome {
+  padding: 20px;
+  background-color: cornsilk;
+  margin-top: 10px;
+}
+
+.welcome h1 {
+  align-self: center;
+  color: red;
+  text-align: center;
+}
+
+.our-meals h2 {
+  text-align: center;
+  font-family: Tahoma;
+}
+
+.meals-parent{
+  padding: 10px;
+  display: flex;
+}
+
+.meals-item {
+  height: 200px;
+  width: 200px;
+
+  border: solid;
+  padding: 10px;
+}
+
+.meals-item img {
+  width: 70%;
+  height: 70%;
+}
